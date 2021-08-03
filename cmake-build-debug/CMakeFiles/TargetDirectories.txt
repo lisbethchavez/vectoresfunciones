@@ -1,0 +1,3 @@
+C:/Users/usuario/CLionProjects/vectoresfunciones/cmake-build-debug/CMakeFiles/vectoresfunciones.dir
+C:/Users/usuario/CLionProjects/vectoresfunciones/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/usuario/CLionProjects/vectoresfunciones/cmake-build-debug/CMakeFiles/rebuild_cache.dir
